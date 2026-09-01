@@ -1,1 +1,1 @@
-# magjak
+# magjak jakobsen
