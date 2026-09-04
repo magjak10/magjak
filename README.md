@@ -1,4 +1,4 @@
-# magjak
+# magjak readme
 hei, jeg heter magnus roos jakobsen og jeg kommer fra stokke 
 mine interesser
 - film
